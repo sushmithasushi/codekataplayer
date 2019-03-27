@@ -1,6 +1,6 @@
-class reve:
+class rever:
 	def __init__(self):
-		s=str(input())
-		s=s[::-1]
-		print(s)
-o=reve()
+		st=str(input())
+		st=st[::-1]
+		print(st)
+o=rever()
