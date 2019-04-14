@@ -20,6 +20,6 @@ for i in range(0,len(l),1):
 v=0
 v=o.is_empty()
 if(v==1):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
